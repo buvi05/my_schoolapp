@@ -1,0 +1,5 @@
+Flask
+flask-cors
+flask-jwt-extended
+SQLAlchemy
+psycopg2-binary
